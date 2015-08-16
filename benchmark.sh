@@ -1,6 +1,6 @@
 #!/bin/sh
 
-base="http://127.0.0.1/php-framework-benchmark"
+base="http://127.0.0.1"
 
 cd `dirname $0`
 
