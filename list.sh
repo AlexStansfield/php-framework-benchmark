@@ -5,14 +5,15 @@ list="
 #phalcon-1.3
 #phalcon-2.0
 #ice-1.0
-slim-2.6
+#slim-2.6
 slim-3
 #codeigniter-3.0
 #lumen-5.0
 #yii-2.0
 #silex-1.2
 silex-1.3
-lumen-5.0
+#lumen-5.0
+lumen-5.1
 nette-2.3
 #cygnite-1.3
 #bear-1.0
